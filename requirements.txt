@@ -1,0 +1,20 @@
+# Common packages
+numpy
+pylab
+matplotlib
+seaborn
+
+# Tensorflow
+tensorflow
+tensorflow.contrib
+
+# GPFlow
+gpflow
+gpflow.decors
+gpflow.dispatch
+gpflow.expectations
+gpflow.features
+gpflow.models.svgp
+gpflow.params
+gpflow.probability_distributions
+gpflow.quadrature
